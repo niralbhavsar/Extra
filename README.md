@@ -10,3 +10,5 @@ HTML/HTML5, CSS/CSS3, Bootstrap3, JavaScript, jQuery, Amazon Web Services, PHP(b
 This project was geared toward ease of use and user experience. We wanted to take the best things that craigslist/ebay/amazon had to offer and combine those features into one.
 
 To visit the deployed working version of this application: [http://www.sfsuswe.com/~s14g06/Beta/](http://www.sfsuswe.com/~s14g06/Beta/)
+
+Project Contributers: [http://www.sfsuswe.com/~s14g06/Beta/about.php](http://www.sfsuswe.com/~s14g06/Beta/about.php)
